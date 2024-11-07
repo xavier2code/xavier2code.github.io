@@ -6,7 +6,28 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 14:06:37 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji</title>
+      <link>http://localhost:1313/posts/emoji/</link>
+      <pubDate>Thu, 07 Nov 2024 14:06:37 +0800</pubDate>
+      <guid>http://localhost:1313/posts/emoji/</guid>
+      <description>&lt;p&gt;Hello! :wave:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 07 Nov 2024 11:49:46 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why you need a blog</title>
+      <link>http://localhost:1313/posts/why-you-need-a-blog/</link>
+      <pubDate>Thu, 07 Nov 2024 11:49:46 +0800</pubDate>
+      <guid>http://localhost:1313/posts/why-you-need-a-blog/</guid>
+      <description>&lt;p&gt;{{ hugo.CommitHash }&lt;/p&gt;&#xA;&lt;p&gt;:flag:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.hubspot.com/products/cms/free-blog-maker?hubs_post-cta=&amp;amp;hubs_content=blog.hubspot.com/marketing/what-is-a-blog&amp;amp;hubs_content-cta=A%20blog&amp;amp;hubs_post=blog.hubspot.com/marketing/what-is-a-blog&#34;&gt;A blog&lt;/a&gt; is typically a section of &lt;a href=&#34;https://www.hubspot.com/products/cms/drag-and-drop-website-builder?hubs_post-cta=&amp;amp;hubs_content=blog.hubspot.com/marketing/what-is-a-blog&amp;amp;hubs_content-cta=your%20business%27s%20website&amp;amp;hubs_post=blog.hubspot.com/marketing/what-is-a-blog&#34;&gt;your business&amp;rsquo;s website&lt;/a&gt; — but, unlike the rest of your website, you need to update the blog section frequently by adding new posts. Additionally, your blog is a tool that allows you to engage more with an audience, either by analyzing how many readers share your blog posts on social, or by allowing readers to comment on your individual posts. In this way, a blog is more like a two-way conversation than the rest of your website. However, a blog can also be an entire website, and often is, if the blog is for personal use alone — for instance, a travel blog.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
